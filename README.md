@@ -32,8 +32,8 @@ Custom resources are extensions of the Kubernetes API.
 * [Overview](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 * [Defining a schema](https://kubernetes.io/blog/2019/06/20/crd-structural-schema/)
 
-container meterics
-------------------
+container metrics
+-----------------
 
 When running containers in a distributed environment like kubernetes a proper metrics and monitoring system becomes an absolute necessity. With pods constantly coming and going you need some unified method of determining whether they are functioning correctly.
 
